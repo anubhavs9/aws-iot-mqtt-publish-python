@@ -5,7 +5,7 @@
   * @Date : 11/10/2020
 **/
 
-Add the following files downloaded from AWS IoT Console - 
+Add the following files downloaded from AWS IoT Console in this directory - 
     > Certificate
     > Private Key
     > Root CA
