@@ -1,0 +1,11 @@
+/**
+  * Title : Publish data to AWS IoT Core using MQTT
+  * @author : Anubhav Sharma
+          https://anubhavsharma.dev
+  * @Date : 11/10/2020
+**/
+
+Add the following files downloaded from AWS IoT Console - 
+    > Certificate
+    > Private Key
+    > Root CA
